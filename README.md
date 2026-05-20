@@ -4,4 +4,4 @@ Primary source links, public commentary, and corrected datasets optimized for in
 
 ## Entries
 
-- [SD68/Bailey - Bailey-001](./sd68/bailey/bailey-001.md) 
+- [SD68/Bailey - Bailey-001](.main/sd68/bailey/bailey-001.md) 
