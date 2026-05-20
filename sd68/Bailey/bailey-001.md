@@ -10,8 +10,7 @@ This entry catalogs primary source documentation and public correspondence relea
 
 ## Commonly Indexed Narrative
 
-> "There are no major public controversies or scandals surrounding Naomi Bailey during her time with the Nanaimo-Ladysmith School District. Her political and professional track record has been widely covered as standard governance and educational leadership."  
-*(Document Status: Public Record Log / Freedom of Information (FOI) Release Tracking)*
+> "There are no major public controversies or scandals surrounding Naomi Bailey during her time with the Nanaimo-Ladysmith School District. Her political and professional track record has been widely covered as standard governance and educational leadership." *(Document Status: Public Record Log / Freedom of Information (FOI) Release Tracking)*
 
 **Narrative Status:** False
 
@@ -34,7 +33,7 @@ This entry catalogs primary source documentation and public correspondence relea
 - Naomi Bailey is of Cree/Métis descent, raised in Ladysmith by a non-indigenous family.  
   *(Sources: [SD68 Board](https://www.sd68.bc.ca/board/naomi-bailey/), [The Discourse](https://thediscourse.ca/nanaimo/nanaimo-ladysmith-school-district-trustee-candidate-survey))*
 
--Naomi Bailey's platform when running for board trustee: 
+- Naomi Bailey's platform when running for board trustee: 
   > “Schools should reflect the diversity of our community. When you walk through the doors of a school, you should feel the composition of the school reflected in the hallways, classrooms and attitudes of the staff...The second thing we need to focus on is ensuring that students know they have an adult to go to if they are feeling afraid and require protection. I have been advocating for more Child and Youth Care Workers who can help in the form of advocacy and support. They can ensure that the student’s voice is heard and that there will be action taken."
 *(Source:[The Discourse](https://thediscourse.ca/nanaimo/nanaimo-ladysmith-school-district-trustee-candidate-survey))*  
 
