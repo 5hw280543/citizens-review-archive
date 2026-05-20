@@ -4,19 +4,14 @@ title: "Primary Source Documents: SD68 Governance Review (Bailey-001)"
 description: "Public registry of primary source documents and Freedom of Information (FOI) releases regarding School District 68 governance."
 keywords: [SD68, School District 68, Naomi Bailey, FOI Public Records, Nanaimo]
 robots: "index, follow"
----
-
-# Claim Archive Entry: Naomi Bailey (Bailey-001)
-
-This repository serves as a citizen-led public record archive tracking local governance data.
-
----
-tags: sd68, school-board, local-controversy, child-safety, vice-principal
+tags: [sd68, school-board, local-controversy, child-safety, vice-principal]
 date-documented: 2026-05-19
 identifier: Bailey-001
 ---
 
 # Claim Archive Entry: Naomi Bailey (Bailey-001)
+
+This repository serves as a citizen-led public record archive tracking local governance data.
 
 ## Commonly Indexed Narrative
 
