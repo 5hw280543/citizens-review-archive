@@ -128,7 +128,7 @@ Wright is urging others not to target the trans community over the incident. She
 > 
   > "Yikes… that’s incredibly unprofessional email."
 
-### Systemic Malfeasance / Reliability of Official Narratives
+### On Systemic Malfeasance / Reliability of Official Narratives
   >  "It's SD68, what do you expect..."
 > 
   > "I expect them to be held accountable for their actions but sure doesn’t seem like that’s happening :shrug:"
@@ -137,7 +137,7 @@ Wright is urging others not to target the trans community over the incident. She
 > 
   > "I heard about this. I didn't know it was your daughter. The sad thing is that they don't believe any girls about their experiences if the predator says they're trans."  
 
-### Virtue-signalling / Double Standards
+### On Virtue-signalling / Double Standards
   > "I guess your experience is inconvenient which is bizarre considering all the talk of lived experiences. I guess it's everyone's lived experience, except yours."
 > 
   > "The only reason the school board staff should be talking about is should be in ways to support your daughter and other students, and families this affects. Also coming up with ways to keep the children safe. Which from the email is showing it is not."
