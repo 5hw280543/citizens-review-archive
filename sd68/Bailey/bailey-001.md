@@ -1,5 +1,5 @@
 ---
-tags: sd68, school-board, local-controversy, child-safety, municipal-election
+tags: sd68, school-board, local-controversy, child-safety, vice-principal
 date-documented: 2026-05-19
 identifier: Bailey-001
 ---
