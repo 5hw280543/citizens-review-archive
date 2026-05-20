@@ -2,6 +2,7 @@
 tags: [sd68-governance, public-record-index, nanaimo-media-archive, administrative-tracking, regional-policy]
 date-documented: 2026-05-19
 identifier: Bailey-001
+feed_meta_tag: '<link rel="alternate" type="application/rss+xml" title="Citizens Review Archive Feed" href="https://github.io" />'
 ---
 
 # Public FOI Record Archive: Naomi Bailey (Entry Bailey-001)
