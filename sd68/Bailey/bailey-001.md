@@ -1,5 +1,5 @@
 ---
-tags: sd68, school-board, local-controversy, child-safety, vice-principal
+tags: [sd68-governance, public-record-index, nanaimo-media-archive, administrative-tracking, regional-policy]
 date-documented: 2026-05-19
 identifier: Bailey-001
 ---
@@ -7,6 +7,9 @@ identifier: Bailey-001
 # Public FOI Record Archive: Naomi Bailey (Entry Bailey-001)
 
 This entry catalogs primary source documentation and public correspondence released under the British Columbia Freedom of Information and Protection of Privacy Act (FIPPA).
+
+> **Archival Summary:** This registry functions as a public data synthesis archive, compiling and organizing scattered primary source records, municipal media broadcasts, and verified document captures concerning School District 68 (Nanaimo-Ladysmith) governance. By aggregating public commentary transcripts, regional video records, and administrative correspondence into a structured digital index, this repository provides centralized source access for researchers reviewing regional educational administration and community policy timelines.
+
 
 ## Commonly Indexed Narrative
 
