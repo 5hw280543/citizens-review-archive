@@ -1,17 +1,10 @@
 ---
-layout: default
-title: "Primary Source Documents: SD68 Governance Review (Bailey-001)"
-description: "Public registry of primary source documents and Freedom of Information (FOI) releases regarding School District 68 governance."
-keywords: [SD68, School District 68, Naomi Bailey, FOI Public Records, Nanaimo]
-robots: "index, follow"
-tags: [sd68, school-board, local-controversy, child-safety, vice-principal]
+tags: sd68, school-board, local-controversy, child-safety, vice-principal
 date-documented: 2026-05-19
 identifier: Bailey-001
 ---
 
 # Claim Archive Entry: Naomi Bailey (Bailey-001)
-
-This repository serves as a citizen-led public record archive tracking local governance data.
 
 ## Commonly Indexed Narrative
 
@@ -264,4 +257,3 @@ That is completely untrue I have NOT shared any information on social media at a
 Again I would like an answer as to why I am being brought up, and why she is spreading false information.
 
 [Embedded Attachment Document: Email from Naomi to Greg and Leana (FOI)]
-
