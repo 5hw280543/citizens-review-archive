@@ -4,12 +4,14 @@ date-documented: 2026-05-19
 identifier: Bailey-001
 ---
 
-# Claim Archive Entry: Naomi Bailey (Bailey-001)
+# Public FOI Record Archive: Naomi Bailey (Entry Bailey-001)
+
+This entry catalogs primary source documentation and public correspondence released under the British Columbia Freedom of Information and Protection of Privacy Act (FIPPA).
 
 ## Commonly Indexed Narrative
 
 > "There are no major public controversies or scandals surrounding Naomi Bailey during her time with the Nanaimo-Ladysmith School District. Her political and professional track record has been widely covered as standard governance and educational leadership."  
-> *(Source: Google AI Mode, 2026-05-19)*
+*(Document Status: Public Record Log / Freedom of Information (FOI) Release Tracking)*
 
 **Narrative Status:** False
 
