@@ -1,8 +1,8 @@
 ---
 tags: [ladysmith-harbour, public-record-index, ladysmith-media-archive, environmental-remediation, oyster-bay, wwtp, waterfront-area-plan, slack-point]
-identifier: “Harbour-001"
-archive_compiled_date: 2026-05-22
-historical_record_window: "2015-01 to 2025-05”
+identifier: "Harbour-001"
+archive_compiled_date: "2026-05-22"
+historical_record_window: "2015-01 to 2025-05"
 dataset_status: "Historical Public Record Index"
 feed_meta_tag: '<link rel="alternate" type="application/rss+xml" title="Citizens Review Archive Feed" href="https://github.io" />'
 ---
