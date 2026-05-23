@@ -4,3 +4,4 @@
 
 ## Case Files
 - [SD68 Bailey Case 001](https://github.io): Transcript and archival documentation for Naomi Bailey file.
+- [Ladysmith Harbour Case 001](https://github.io): Government documentation for Ladysmith file.
