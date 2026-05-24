@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /
+Allow: /citizens-review-archive/
 
-Sitemap: https://github.io
+Sitemap: https://5hw280543.github.io/citizens-review-archive/sitemap.xml
