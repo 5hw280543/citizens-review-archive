@@ -1,1 +1,10 @@
-yamltheme: jekyll-theme-hacker
+theme: jekyll-theme-hacker
+
+# Plugins to completely automate your sitemap and RSS feed generations
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Global URL configurations (Replace with your actual production domain)
+url: "https://5hw280543.github.io"
+baseurl: "/citizens-review-archive"
