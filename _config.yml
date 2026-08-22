@@ -2,11 +2,9 @@ title: Citizens Review Archive
 description: Public disclosure mirror, environmental asset data, and municipal cross-reference logs.
 theme: jekyll-theme-hacker
 
-# Automates file indexing exclusively within this subfolder project
 plugins:
   - jekyll-sitemap
   - jekyll-feed
 
-# Forces absolute separation from your other GitHub repositories
 url: "https://5hw280543.github.io"
 baseurl: "/citizens-review-archive"

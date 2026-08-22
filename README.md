@@ -4,6 +4,6 @@ Primary source links, public commentary, and corrected datasets optimized for in
 
 ## Entries
 
-- [/sd68/bailey/bailey-001](sd68/bailey/bailey-001.html)
-- [/ladysmith/Harbour-001](ladysmith/harbour-001.html)
-- [/ladysmith/Harbour-002](ladysmith/harbour-002.html)
+- [/sd68/bailey/bailey-001](sd68/bailey/bailey-001.md)
+- [/ladysmith/harbour-001](ladysmith/harbour-001.md)
+- [/ladysmith/harbour-002](ladysmith/harbour-002.md)
