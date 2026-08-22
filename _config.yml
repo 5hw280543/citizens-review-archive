@@ -1,6 +1,7 @@
 title: Citizens Review Archive
 description: Public disclosure mirror, environmental asset data, and municipal cross-reference logs.
-theme: jekyll-theme-hacker
+
+markdown: kramdown
 
 plugins:
   - jekyll-sitemap
